@@ -1,5 +1,5 @@
 ## Hi there 👋aa
-<img src="bg.png" alt="Growuppng"/>
+<img src="background-image.png" alt="background"/>
 
 <!--
 **Karpiuuu/Karpiuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
