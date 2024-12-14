@@ -1,4 +1,4 @@
-## Hi there 👋aa
+<p style="align: center;">Hi, I'm Michał! 👋</p>
 <img src="bg-img.png" alt="background"/>
 
 <!--
