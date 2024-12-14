@@ -1,5 +1,6 @@
 ## Hi there 👋aa
 <a href="https://hkcode.pl">hkcode.pl</a>
+<img src="growup.png" alt="Growuppng"/>
 
 <!--
 **Karpiuuu/Karpiuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
