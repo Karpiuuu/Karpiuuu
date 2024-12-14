@@ -1,4 +1,4 @@
-<p style="align: center;">Hi, I'm Michał! 👋</p>
+<p style="text-align: center; font-size: 28px; font-weight: 600;">Hi, I'm Michał! 👋</p>
 <img src="bg-img.png" alt="background"/>
 
 <!--
